@@ -91,11 +91,13 @@ body {
 
 .card-body .paragraph-2 {
     font-size: 1rem;
+    font-weight: 500;
+    line-height: 25px;
     opacity: 75%;
 }
 
 .card-body .paragraph-1 {
-    margin: 1rem 0;
+    margin: 1.2rem 0;
     font-size: 1.5rem;
 }
 
